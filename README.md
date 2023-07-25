@@ -1,7 +1,7 @@
 # Security Courses Documentation
 Welcome to the Security Concepts Documentation Repository!
 
-[![GitHub License](https://github.com/MichaelLoka/Security-Courses-Documentation)](https://github.com/MichaelLoka/Security-Courses-Documentation/blob/main/LICENSE)
+[![GitHub License](https://img.shields.io/github/license/MichaelLoka/Security-Courses-Documentation)](https://github.com/MichaelLoka/Security-Courses-Documentation/blob/main/LICENSE)
 
 This repository is dedicated to comprehensive and detailed documentation covering various security concepts and best practices. Whether you're a seasoned cybersecurity professional or just starting your journey, this collection of resources aims to empower you with essential knowledge and insights into the world of digital security.
 
