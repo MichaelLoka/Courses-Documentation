@@ -1,5 +1,5 @@
 # Security Courses Documentation
-# Welcome to the Security Concepts Documentation Repository!
+Welcome to the Security Concepts Documentation Repository!
 
 [![GitHub License](https://img.shields.io/github/license/your-username/security-concepts-docs)](https://github.com/your-username/security-concepts-docs/blob/main/LICENSE)
 
@@ -27,7 +27,7 @@ git clone https://github.com/your-username/security-concepts-docs.git
 ## Directory Structure
 
 The repository follows a structured layout to ensure easy navigation and organization of content. Here's a brief overview of the main directories:
-
+```
 └── Platform/
    └── Course/
       ├── Module/
@@ -36,7 +36,7 @@ The repository follows a structured layout to ensure easy navigation and organiz
       │   └── Documentation
       └── Quizzes & Exams/
             └── Section Quiz
-
+```
 
 ## Contributing
 
